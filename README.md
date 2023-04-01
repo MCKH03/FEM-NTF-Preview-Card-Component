@@ -42,9 +42,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://your-solution-url.com)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:([https://your-live-site-url.com](https://mckh03.github.io/FEM-NTF-Preview-Card-Component/))
 
 - Telegram: (https://t.me/MehrshadHeisenberg2)
 
